@@ -9,6 +9,7 @@ math.gcd(66, 22, 11) # 11
 ```
 
 # lcm() : lowest common multiple; 최소 공배수
+(python 3.9 ver)
 ```
 import math
 
