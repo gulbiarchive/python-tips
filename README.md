@@ -1,5 +1,3 @@
 # python-tips
-
-기억은 언젠가 사라지니 기억 대신 기록에 의지하기 위해,
-
-파이썬을 사용하며 마주쳤던 문제 혹은 알게된 점을 작성해 본다!
+Memories will disappear someday, so to rely on records instead of memories,
+Write down problems you encountered or things you learned while using Python!
